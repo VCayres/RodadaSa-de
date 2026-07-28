@@ -1,0 +1,2 @@
+# Pacotes de distribuição devem ser gerados localmente, não versionados.
+*.zip
