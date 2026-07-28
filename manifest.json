@@ -1,0 +1,13 @@
+{
+  "name": "Roda da Saúde",
+  "version": "1.0.0",
+  "description": "Autoavaliação interativa da Roda da Saúde do projeto Com Saúde Sem Peso",
+  "entryPoint": "index.html",
+  "type": "HTML",
+  "author": "Equipe Cayres",
+  "minWidth": 800,
+  "minHeight": 600,
+  "aspectRatio": "16:9",
+  "aiEnabled": false,
+  "maxAiRequests": 0
+}
