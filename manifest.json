@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Autoavaliação interativa da Roda da Saúde do projeto Com Saúde Sem Peso",
   "entryPoint": "index.html",
-  "type": "HTML",
+  "type": "html",
   "author": "Equipe Cayres",
   "minWidth": 800,
   "minHeight": 600,
